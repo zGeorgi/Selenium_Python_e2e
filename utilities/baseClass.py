@@ -17,11 +17,9 @@ class BaseClass:
         logging.getLogger(test_name).handlers.clear()
         log = logging.getLogger(test_name)
 
-       # if not len(log.handlers):
         file_h = logging.FileHandler("/home/georgi/PycharmProjects/E_Shop/utilities/logfile.log")
         formatter = logging.Formatter("%(asctime)s => %(levelname)s => %(name)s => %(message)s")
         file_h.setFormatter(formatter)
-
         log.addHandler(file_h)
         log.setLevel(logging.DEBUG)
         return log
