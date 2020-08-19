@@ -14,10 +14,9 @@ class BaseClass:
 
     def getLog_obj(self):
         test_name = inspect.stack()[1][3]
-
-        if logging.getLogger(test_name).hasHandlers():
-            logging.getLogger(test_name).handlers.clear()
         log = logging.getLogger(test_name)
+        if log.hasHandlers():
+            log.handlers.clear()
 
         file_h = logging.FileHandler("/home/georgi/PycharmProjects/E_Shop/utilities/logfile.log")
         formatter = logging.Formatter("%(asctime)s => %(levelname)s => %(name)s => %(message)s")
