@@ -9,6 +9,10 @@ def pytest_addoption(parser):
         "--browser_name", action="store", default="chrome",
         help="Start desire browser from cmd"
     )
+    parser.addoption(
+        "--second_param", action="store", default="SecondArg_fromCmd",
+        help="Start desire browser from cmd"
+    )
 
 
 @pytest.fixture(scope="class")
@@ -22,6 +26,7 @@ def invoke_browser(request):
 
     driver.get("https://rahulshettyacademy.com/angularpractice/")
     driver.maximize_window()
+    print(request.config.getoption("--second_param"))
     request.cls.driver = driver
     yield
     driver.close()
@@ -51,4 +56,4 @@ def pytest_runtest_makereport(item):
 
 
 def _capture_screenshot(name):
-    driver.get_screenshot_as_file(name)
+    driver.get_screenshot_as_file("/home/georgi/PycharmProjects/E_Shop/reports/" + name)

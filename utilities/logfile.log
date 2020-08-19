@@ -139,3 +139,183 @@
 2020-08-17 00:41:19,290 => INFO => test_e2e => pass verification
 2020-08-17 00:41:24,967 => INFO => test_e2e => select country for delivery
 2020-08-17 00:41:25,878 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 18:21:44,662 => INFO => test_homepage => georgi
+2020-08-19 18:21:44,706 => INFO => test_homepage => Exampleil.com
+2020-08-19 18:21:44,935 => INFO => test_homepage => tick the checkbox
+2020-08-19 18:21:44,970 => INFO => test_homepage => Male
+2020-08-19 18:21:45,613 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 18:21:47,705 => INFO => test_homepage => yana
+2020-08-19 18:21:47,705 => INFO => test_homepage => yana
+2020-08-19 18:21:47,747 => INFO => test_homepage => yana.com
+2020-08-19 18:21:47,747 => INFO => test_homepage => yana.com
+2020-08-19 18:21:47,971 => INFO => test_homepage => tick the checkbox
+2020-08-19 18:21:47,971 => INFO => test_homepage => tick the checkbox
+2020-08-19 18:21:48,223 => INFO => test_homepage => Female
+2020-08-19 18:21:48,223 => INFO => test_homepage => Female
+2020-08-19 18:21:48,478 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 18:21:48,478 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 18:22:11,557 => INFO => test_e2e => click shop Btn
+2020-08-19 18:22:11,867 => INFO => test_e2e => Select item
+2020-08-19 18:22:12,286 => INFO => test_e2e => click checkout
+2020-08-19 18:22:12,349 => INFO => test_e2e => pass verification
+2020-08-19 18:22:18,167 => INFO => test_e2e => select country for delivery
+2020-08-19 18:22:18,632 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 18:25:25,292 => INFO => test_homepage => georgi
+2020-08-19 18:25:25,477 => INFO => test_homepage => Exampleil.com
+2020-08-19 18:25:25,826 => INFO => test_homepage => tick the checkbox
+2020-08-19 18:25:25,894 => INFO => test_homepage => Male
+2020-08-19 18:25:26,341 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 18:25:29,258 => INFO => test_homepage => yana
+2020-08-19 18:25:29,258 => INFO => test_homepage => yana
+2020-08-19 18:25:29,327 => INFO => test_homepage => yana.com
+2020-08-19 18:25:29,327 => INFO => test_homepage => yana.com
+2020-08-19 18:25:30,327 => INFO => test_homepage => tick the checkbox
+2020-08-19 18:25:30,327 => INFO => test_homepage => tick the checkbox
+2020-08-19 18:25:30,644 => INFO => test_homepage => Female
+2020-08-19 18:25:30,644 => INFO => test_homepage => Female
+2020-08-19 18:25:30,999 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 18:25:30,999 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 18:25:58,373 => INFO => test_e2e => click shop Btn
+2020-08-19 18:25:59,107 => INFO => test_e2e => Select item
+2020-08-19 18:25:59,970 => INFO => test_e2e => click checkout
+2020-08-19 18:26:00,227 => INFO => test_e2e => pass verification
+2020-08-19 18:26:07,260 => INFO => test_e2e => select country for delivery
+2020-08-19 18:26:07,825 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 20:17:20,578 => INFO => test_homepage => georgi
+2020-08-19 20:17:20,622 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:17:20,919 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:17:20,961 => INFO => test_homepage => Male
+2020-08-19 20:17:21,232 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:17:23,609 => INFO => test_homepage => yana
+2020-08-19 20:17:23,609 => INFO => test_homepage => yana
+2020-08-19 20:17:23,643 => INFO => test_homepage => yana.com
+2020-08-19 20:17:23,643 => INFO => test_homepage => yana.com
+2020-08-19 20:17:23,868 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:17:23,868 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:17:24,117 => INFO => test_homepage => Female
+2020-08-19 20:17:24,117 => INFO => test_homepage => Female
+2020-08-19 20:17:24,382 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:17:24,382 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:17:43,292 => INFO => test_e2e => click shop Btn
+2020-08-19 20:17:43,604 => INFO => test_e2e => Select item
+2020-08-19 20:17:43,864 => INFO => test_e2e => click checkout
+2020-08-19 20:17:43,934 => INFO => test_e2e => pass verification
+2020-08-19 20:17:49,764 => INFO => test_e2e => select country for delivery
+2020-08-19 20:17:50,239 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 20:24:58,205 => INFO => test_homepage => georgi
+2020-08-19 20:24:58,262 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:24:58,505 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:24:58,543 => INFO => test_homepage => Male
+2020-08-19 20:24:58,804 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:25:00,964 => INFO => test_homepage => yana
+2020-08-19 20:25:00,964 => INFO => test_homepage => yana
+2020-08-19 20:25:01,015 => INFO => test_homepage => yana.com
+2020-08-19 20:25:01,015 => INFO => test_homepage => yana.com
+2020-08-19 20:25:01,235 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:25:01,235 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:25:01,489 => INFO => test_homepage => Female
+2020-08-19 20:25:01,489 => INFO => test_homepage => Female
+2020-08-19 20:25:01,741 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:25:01,741 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:25:17,957 => INFO => test_e2e => click shop Btn
+2020-08-19 20:25:18,289 => INFO => test_e2e => Select item
+2020-08-19 20:25:18,552 => INFO => test_e2e => click checkout
+2020-08-19 20:25:18,623 => INFO => test_e2e => pass verification
+2020-08-19 20:25:24,479 => INFO => test_e2e => select country for delivery
+2020-08-19 20:25:24,947 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 20:26:50,078 => INFO => test_homepage => georgi
+2020-08-19 20:26:50,259 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:26:50,389 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:26:50,473 => INFO => test_homepage => Male
+2020-08-19 20:26:50,686 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:26:51,241 => INFO => test_homepage => yana
+2020-08-19 20:26:51,241 => INFO => test_homepage => yana
+2020-08-19 20:26:51,424 => INFO => test_homepage => yana.com
+2020-08-19 20:26:51,424 => INFO => test_homepage => yana.com
+2020-08-19 20:26:51,556 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:26:51,556 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:26:51,675 => INFO => test_homepage => Female
+2020-08-19 20:26:51,675 => INFO => test_homepage => Female
+2020-08-19 20:26:51,825 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:26:51,825 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:26:57,909 => INFO => test_e2e => click shop Btn
+2020-08-19 20:26:58,136 => INFO => test_e2e => Select item
+2020-08-19 20:26:58,303 => INFO => test_e2e => click checkout
+2020-08-19 20:26:58,369 => INFO => test_e2e => pass verification
+2020-08-19 20:27:03,970 => INFO => test_e2e => select country for delivery
+2020-08-19 20:27:04,207 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 20:28:14,793 => INFO => test_homepage => georgi
+2020-08-19 20:28:14,994 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:28:15,101 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:28:15,177 => INFO => test_homepage => Male
+2020-08-19 20:28:15,361 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:28:15,892 => INFO => test_homepage => yana
+2020-08-19 20:28:15,892 => INFO => test_homepage => yana
+2020-08-19 20:28:16,058 => INFO => test_homepage => yana.com
+2020-08-19 20:28:16,058 => INFO => test_homepage => yana.com
+2020-08-19 20:28:16,183 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:28:16,183 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:28:16,309 => INFO => test_homepage => Female
+2020-08-19 20:28:16,309 => INFO => test_homepage => Female
+2020-08-19 20:28:16,442 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:28:16,442 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:28:21,965 => INFO => test_e2e => click shop Btn
+2020-08-19 20:28:22,182 => INFO => test_e2e => Select item
+2020-08-19 20:28:22,377 => INFO => test_e2e => click checkout
+2020-08-19 20:28:22,451 => INFO => test_e2e => pass verification
+2020-08-19 20:28:28,007 => INFO => test_e2e => select country for delivery
+2020-08-19 20:28:28,259 => INFO => test_e2e => accept term&conditions And finalize
+2020-08-19 20:35:39,448 => INFO => test_homepage => georgi
+2020-08-19 20:35:39,627 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:35:39,725 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:35:39,789 => INFO => test_homepage => Male
+2020-08-19 20:35:39,972 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:35:40,452 => INFO => test_homepage => yana
+2020-08-19 20:35:40,452 => INFO => test_homepage => yana
+2020-08-19 20:35:40,569 => INFO => test_homepage => yana.com
+2020-08-19 20:35:40,569 => INFO => test_homepage => yana.com
+2020-08-19 20:35:40,664 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:35:40,664 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:35:40,751 => INFO => test_homepage => Female
+2020-08-19 20:35:40,751 => INFO => test_homepage => Female
+2020-08-19 20:35:40,854 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:35:40,854 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:35:47,011 => INFO => test_e2e => click shop Btn
+2020-08-19 20:35:47,120 => INFO => test_e2e => Select item
+2020-08-19 20:35:47,259 => INFO => test_e2e => click checkout
+2020-08-19 20:50:12,146 => INFO => test_homepage => georgi
+2020-08-19 20:50:12,284 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:50:12,482 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:50:12,554 => INFO => test_homepage => Male
+2020-08-19 20:50:12,793 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:50:13,371 => INFO => test_homepage => yana
+2020-08-19 20:50:13,371 => INFO => test_homepage => yana
+2020-08-19 20:50:13,488 => INFO => test_homepage => yana.com
+2020-08-19 20:50:13,488 => INFO => test_homepage => yana.com
+2020-08-19 20:50:13,673 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:50:13,673 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:50:13,807 => INFO => test_homepage => Female
+2020-08-19 20:50:13,807 => INFO => test_homepage => Female
+2020-08-19 20:50:13,924 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:50:13,924 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:50:28,207 => INFO => test_e2e => click shop Btn
+2020-08-19 20:50:28,755 => INFO => test_e2e => Select item
+2020-08-19 20:50:29,157 => INFO => test_e2e => click checkout
+2020-08-19 20:58:04,298 => INFO => test_homepage => georgi
+2020-08-19 20:58:04,409 => INFO => test_homepage => Exampleil.com
+2020-08-19 20:58:04,538 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:58:04,579 => INFO => test_homepage => Male
+2020-08-19 20:58:04,823 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:58:05,275 => INFO => test_homepage => yana
+2020-08-19 20:58:05,275 => INFO => test_homepage => yana
+2020-08-19 20:58:05,404 => INFO => test_homepage => yana.com
+2020-08-19 20:58:05,404 => INFO => test_homepage => yana.com
+2020-08-19 20:58:05,514 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:58:05,514 => INFO => test_homepage => tick the checkbox
+2020-08-19 20:58:05,603 => INFO => test_homepage => Female
+2020-08-19 20:58:05,603 => INFO => test_homepage => Female
+2020-08-19 20:58:05,725 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:58:05,725 => INFO => test_homepage => submit the Data and print the message! 
+2020-08-19 20:58:12,443 => INFO => test_e2e => click shop Btn
+2020-08-19 20:58:13,820 => INFO => test_e2e => Select item
+2020-08-19 20:58:15,248 => INFO => test_e2e => click checkout

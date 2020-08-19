@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="1" hostname="georgi-B5400" name="pytest" skipped="0" tests="3" time="17.817" timestamp="2020-08-19T20:57:57.872157"><testcase classname="test_Home_page.TestHomePage" file="test_Home_page.py" line="9" name="test_homepage[load_data0]" time="7.228"><system-out>SecondArg_fromCmd
+×
+Success! The Form has been submitted successfully!.
+</system-out></testcase><testcase classname="test_Home_page.TestHomePage" file="test_Home_page.py" line="9" name="test_homepage[load_data1]" time="0.926"><system-out>×
+Success! The Form has been submitted successfully!.
+</system-out></testcase><testcase classname="test_e2e.TestOne" file="test_e2e.py" line="6" name="test_e2e" time="9.428"><failure message="assert 2 == 1
+  -2
+  +1">self = &lt;test.test_e2e.TestOne instance at 0x7fb9537995a0&gt;
+
+    def test_e2e(self):
+        log = self.getLog_obj()
+        home_page = HomePage(self.driver)
+        checkout_page = home_page.click_shop_btn()
+        log.info(&quot;click shop Btn&quot;)
+    
+        checkout_page.add_blackbery_in_basket()
+        log.info(&quot;Select item&quot;)
+        checkout_page.click_checkout()
+        log.info(&quot;click checkout&quot;)
+        item = &quot;Blackberry&quot;
+        self.wait_link_presence(item, 9)
+        quantity = checkout_page.get_item_quantity()
+&gt;       assert 2 == int(quantity)
+E       assert 2 == 1
+E         -2
+E         +1
+
+test_e2e.py:20: AssertionError</failure><system-out>SecondArg_fromCmd
+</system-out></testcase></testsuite></testsuites>
