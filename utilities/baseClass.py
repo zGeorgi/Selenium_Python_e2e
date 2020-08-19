@@ -14,7 +14,9 @@ class BaseClass:
 
     def getLog_obj(self):
         test_name = inspect.stack()[1][3]
-        logging.getLogger(test_name).handlers.clear()
+
+        if logging.getLogger(test_name).hasHandlers():
+            logging.getLogger(test_name).handlers.clear()
         log = logging.getLogger(test_name)
 
         file_h = logging.FileHandler("/home/georgi/PycharmProjects/E_Shop/utilities/logfile.log")
