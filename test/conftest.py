@@ -20,10 +20,12 @@ def invoke_browser(request):
     global driver
     browser_name = request.config.getoption("--browser_name")
     if browser_name == "chrome":
-        driver = webdriver.Chrome(executable_path="/home/georgi/chromedriver/chromedriver")
+         chr_options = wbdriver.ChromeOptions()
+         driver = webdriver.Remote("http://ec2-18-134-74-167.eu-west-2.compute.amazonaws.com/:4444", options=chr_options)
+       
     elif browser_name == "firefox":
-        driver = webdriver.Firefox(executable_path="/home/georgi/geckodriver/geckodriver")
-
+         chr_options = wbdriver.FirefoxOptions()
+         driver = webdriver.Remote("http://ec2-18-134-74-167.eu-west-2.compute.amazonaws.com/:4444", options=chr_options)
     driver.get("https://rahulshettyacademy.com/angularpractice/")
     driver.maximize_window()
     print(request.config.getoption("--second_param"))
